@@ -1,0 +1,1 @@
+# termux-bassick-all-pkg
